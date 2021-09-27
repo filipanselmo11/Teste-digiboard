@@ -1,0 +1,26 @@
+{
+    "usuarios": [
+       {
+        "idUsuario": 1,
+        "nomeUsuario":"Fílip Anselmo ",
+        "loginUsuario":"filipanselmo11",
+        "senhaUsuario":"1234",
+        "ativo": true
+       },
+       {
+        "idUsuario": 2,
+        "nomeUsuario":"Maria Silva",
+        "loginUsuario":"maria_silva",
+        "senhaUsuario":"1234",
+        "ativo": true
+       },
+       {
+        "id": 3,
+        "nomeUsuario":"Paula Silva",
+        "loginUsuario":"paula23",
+        "senhaUsuario":"1234",
+        "ativoUsuario": true
+       }
+       
+    ]
+}
